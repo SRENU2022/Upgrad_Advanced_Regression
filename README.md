@@ -14,3 +14,11 @@ The company wants to know:
 Which variables are significant in predicting the price of a house, and
 
 How well those variables describe the price of a house.
+
+### Data set used
+
+train.csv
+
+### Project details
+
+Model is built using Advanced linear regression techniques like Lasso and Ridge and final analysis is done on which model is good.
